@@ -1,5 +1,5 @@
-# Maven Toyes Profit Margin Project
-***This data analysis project aims to improve the profit margin of the company Maven Toys using the co products, sales, stores, and inventory data.***
+# [Maven Toyes Profit Margin Project](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
+***This data analysis project aims to improve the profit margin of the company Maven Toys using the company's products, sales, stores, and inventory data.***
 
 **Question:** The executive at Maven Toys is interested in how they can strategically improve their margins. 
 
